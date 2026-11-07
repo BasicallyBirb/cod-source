@@ -1,4 +1,0 @@
-string,string,string
-inherit,mp/loot/br/champion_mgl/lootset_root.csv,
-chance,cachePoint,0
-chance,cache,0
