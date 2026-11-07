@@ -1,9 +1,0 @@
-{
-    "configstringfiletype": "scriptbundle",
-    "type": "spyskill",
-    "hash_a99abf33": "autopsy",
-    "name": "spyskill_autopsy",
-    "validtime": 5,
-    "cooldown": 1,
-    "hash_e1bfe02c": 31
-}
