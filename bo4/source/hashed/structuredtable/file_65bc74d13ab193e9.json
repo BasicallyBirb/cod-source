@@ -1,9 +1,0 @@
-[
-    {
-        "id": 1,
-        "name": "friend",
-        "override_multiteam": 1,
-        "radius": 1200,
-        "score": 200
-    }
-]

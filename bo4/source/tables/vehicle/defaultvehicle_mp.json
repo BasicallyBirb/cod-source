@@ -1,8 +1,0 @@
-{
-    "name": "#defaultvehicle_mp",
-    "type": "wheels4",
-    "skidSpeedMin": 0,
-    "skidSpeedMax": 0,
-    "peelSpeedMax": 0,
-    "bundle": {}
-}

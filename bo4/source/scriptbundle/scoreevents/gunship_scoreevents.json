@@ -1,8 +1,0 @@
-{
-    "gunship_kill": "#gunship_kill",
-    "configstringfiletype": "scriptbundle",
-    "type": "scoreevents",
-    "vmtype": "both",
-    "name": "gunship_scoreevents",
-    "customsettingstype": "ability"
-}

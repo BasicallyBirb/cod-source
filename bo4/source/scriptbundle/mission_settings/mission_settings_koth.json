@@ -1,8 +1,0 @@
-{
-    "configstringfiletype": "scriptbundle",
-    "type": "mission_settings",
-    "mstype": "koth",
-    "vmtype": "both",
-    "name": "mission_settings_koth",
-    "msaudioplaybackthrottle": 5000
-}

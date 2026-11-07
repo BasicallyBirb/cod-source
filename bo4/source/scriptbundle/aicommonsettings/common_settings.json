@@ -1,8 +1,0 @@
-{
-    "shortwalkdist": 150,
-    "maxmeleeplayerattackers": 1,
-    "configstringfiletype": "scriptbundle",
-    "type": "aicommonsettings",
-    "vmtype": "server",
-    "name": "common_settings"
-}

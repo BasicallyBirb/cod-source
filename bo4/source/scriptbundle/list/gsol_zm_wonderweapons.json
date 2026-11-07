@@ -1,7 +1,0 @@
-{
-    "name": "#gsol_zm_wonderweapons",
-    "type": "gamesettingoption",
-    "bundles": [
-        "#gamesettings/#zm_wonderweap"
-    ]
-}

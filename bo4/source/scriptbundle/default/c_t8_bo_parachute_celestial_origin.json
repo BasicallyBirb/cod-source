@@ -1,7 +1,0 @@
-{
-    "name": "c_t8_bo_parachute_celestial_origin",
-    "parachute": "weapon#parachute_wz",
-    "icon": "loot_ui_icon_jumppacks_parachute_celestial",
-    "largeicon": "loot_ui_icon_jumppacks_parachute_celestial_large",
-    "parachutelit": "model#"
-}
