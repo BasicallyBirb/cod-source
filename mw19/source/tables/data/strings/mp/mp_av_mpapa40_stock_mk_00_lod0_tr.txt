@@ -1,3 +1,0 @@
-0	j_trigger
-1	tag_folding_grip
-2	tag_stock_attach

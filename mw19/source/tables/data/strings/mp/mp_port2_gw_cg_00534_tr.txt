@@ -1,3 +1,0 @@
-0	foliage_tree_oak_04_full
-1	foliage_tree_spruce_02
-2	foliage_tree_spruce_03

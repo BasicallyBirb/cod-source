@@ -1,3 +1,0 @@
-0	j_boltend
-1	j_boltpin
-2	tag_rail_attach

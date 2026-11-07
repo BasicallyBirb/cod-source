@@ -1,2 +1,0 @@
-0	j_sling_loop_rear_00
-1	tag_stock_attach

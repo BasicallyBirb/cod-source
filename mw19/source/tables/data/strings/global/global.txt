@@ -1,3 +1,0 @@
-0	tag_ac130_camera
-1	tag_origin
-2	tag_player

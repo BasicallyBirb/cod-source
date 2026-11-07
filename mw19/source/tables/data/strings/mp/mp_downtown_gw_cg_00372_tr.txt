@@ -1,3 +1,0 @@
-0	ee_foliage_fallen_tree_trunk_large_02
-1	foliage_tree_spruce_02
-2	foliage_tree_spruce_03

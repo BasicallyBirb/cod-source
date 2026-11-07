@@ -1,2 +1,0 @@
-0	j_stockrel
-1	tag_stock_attach

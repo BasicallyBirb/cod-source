@@ -1,3 +1,0 @@
-0	j_firesel
-1	j_trigger
-2	tag_stock_attach

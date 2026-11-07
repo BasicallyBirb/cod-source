@@ -1,2 +1,0 @@
-0	stocklight_alt
-1	tag_stock_attach

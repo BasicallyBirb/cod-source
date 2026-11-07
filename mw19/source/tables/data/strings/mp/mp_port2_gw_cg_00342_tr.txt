@@ -1,2 +1,0 @@
-0	ee_rock_cliff_04
-1	ee_rock_cliff_iceland_01

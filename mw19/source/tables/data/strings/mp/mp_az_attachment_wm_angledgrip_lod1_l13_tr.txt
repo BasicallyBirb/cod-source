@@ -1,2 +1,0 @@
-0	tag_grip_attach
-1	tag_ik_loc_le_foregrip

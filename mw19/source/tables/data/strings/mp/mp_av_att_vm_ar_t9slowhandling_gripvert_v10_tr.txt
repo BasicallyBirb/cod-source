@@ -1,2 +1,0 @@
-0	v10_tag_folding_grip
-1	v10_tag_ik_loc_le_foregrip

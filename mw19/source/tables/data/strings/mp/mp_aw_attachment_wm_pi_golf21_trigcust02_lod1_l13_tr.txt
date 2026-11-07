@@ -1,2 +1,0 @@
-0	j_trigcust
-1	tag_stock_attach

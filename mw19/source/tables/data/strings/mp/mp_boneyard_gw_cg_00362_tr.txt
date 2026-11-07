@@ -1,3 +1,0 @@
-0	foliage_tree_spruce_03
-1	foliage_tree_spruce_03_trunk
-2	foliage_tree_stump_02

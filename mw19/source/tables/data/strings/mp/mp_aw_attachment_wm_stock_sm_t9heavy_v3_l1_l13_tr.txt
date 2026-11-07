@@ -1,2 +1,0 @@
-0	tag_pistolgrip_attach
-1	tag_stock_attach

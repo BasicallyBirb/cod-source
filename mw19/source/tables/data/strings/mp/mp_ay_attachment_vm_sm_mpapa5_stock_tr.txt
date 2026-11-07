@@ -1,3 +1,0 @@
-0	j_collapsible_stock
-1	j_stock_release
-2	tag_stock_attach

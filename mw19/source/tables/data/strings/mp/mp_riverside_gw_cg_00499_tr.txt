@@ -1,2 +1,0 @@
-0	foliage_tree_oak_04
-1	foliage_tree_oak_05_small

@@ -1,3 +1,0 @@
-0	cheeckrest_pro_geo
-1	cheeckrest_stock_geo
-2	tag_stock_attach

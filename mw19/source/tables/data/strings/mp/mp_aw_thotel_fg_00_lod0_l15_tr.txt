@@ -1,2 +1,0 @@
-0	guard_sling_ring_root
-1	tag_guard_attach

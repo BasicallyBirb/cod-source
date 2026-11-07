@@ -1,3 +1,0 @@
-0	j_ring_stock_animate
-1	j_sling_clip
-2	tag_stock_attach

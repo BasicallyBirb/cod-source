@@ -1,3 +1,0 @@
-0	j_l_bipod_leg
-1	j_r_bipod_leg
-2	tag_bipod_attach

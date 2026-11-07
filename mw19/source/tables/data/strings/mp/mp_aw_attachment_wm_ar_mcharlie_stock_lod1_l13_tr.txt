@@ -1,2 +1,0 @@
-0	j_stock_ring_v2
-1	tag_stock_attach

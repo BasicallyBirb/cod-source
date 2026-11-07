@@ -1,2 +1,0 @@
-0	tag_pistolgrip_attach
-1	v13_quickdraw_01

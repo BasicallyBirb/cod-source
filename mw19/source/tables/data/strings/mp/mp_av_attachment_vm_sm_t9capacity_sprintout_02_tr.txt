@@ -1,2 +1,0 @@
-0	j_sling_clip
-1	tag_stock_attach
