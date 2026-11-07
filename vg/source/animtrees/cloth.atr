@@ -1,6 +1,0 @@
-decor_havok_cloth_skirt_idle
-building_tarps_doorways_cloth_01_anim_high
-
-clothnode : clientauth cloth_link(xanimclothlcn=[xanimclothlcn])
-{
-}

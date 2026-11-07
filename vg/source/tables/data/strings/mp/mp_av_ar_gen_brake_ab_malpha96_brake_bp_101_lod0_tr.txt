@@ -1,2 +1,0 @@
-1	tag_flash
-2	tag_silencer
