@@ -1,3 +1,0 @@
-string,string,string
-inherit,mp/loot/br/default/lootset_root.csv,
-reqAdd,brloot_killstreak_uav,1

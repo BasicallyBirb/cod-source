@@ -1,4 +1,0 @@
-string,string,string
-inherit,mp/loot/br/dmz/lootset_root.csv,
-reqAdd,weapon,1
-reqAdd,,2
