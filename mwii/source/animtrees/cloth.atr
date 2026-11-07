@@ -1,5 +1,0 @@
-decor_havok_cloth_skirt_idle
-
-clothnode : clientauth cloth_link(xanimclothlcn=[xanimclothlcn])
-{
-}

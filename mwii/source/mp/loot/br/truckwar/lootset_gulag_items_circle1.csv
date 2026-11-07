@@ -1,4 +1,0 @@
-string,string,string
-inherit,mp/loot/br/truckwar/lootset_root.csv,
-tagReject,nogulag,100
-reqAdd,lethal | tactical,3

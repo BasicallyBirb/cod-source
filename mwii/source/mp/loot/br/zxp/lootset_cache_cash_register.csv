@@ -1,3 +1,0 @@
-string,string,string,string,string,string
-inherit,mp/loot/br/zxp/lootset_root.csv,,,,
-reqAdd,plunder,1,,,# Required Plunder

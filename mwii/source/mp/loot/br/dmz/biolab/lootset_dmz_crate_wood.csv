@@ -1,5 +1,0 @@
-string,string,string,string,string
-inherit,mp/loot/br/dmz/biolab/lootset_root.csv,,,
-reqAdd,,2,,100
-reqAdd,,1,,65
-reqAdd,,1,,25
